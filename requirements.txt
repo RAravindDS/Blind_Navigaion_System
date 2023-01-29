@@ -58,3 +58,5 @@ tree
 xlsxwriter
 tensorflow 
 opencv-python-headless
+Flask 
+streamlit
