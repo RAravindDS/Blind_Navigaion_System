@@ -56,3 +56,5 @@ thop  # FLOPs computation
 
 tree
 xlsxwriter
+tensorflow 
+opencv-python-headless
